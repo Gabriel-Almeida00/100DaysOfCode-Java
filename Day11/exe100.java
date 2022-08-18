@@ -1,21 +1,9 @@
-package Day11;
-import java.util.Arrays;
+text 
 
-public class exe100 {
 
-	public static void main(String[]args) {
-		int[] array_nums1 = {10, 11, 10, 20, 43, 20, 50};
-		int[] array_nums2 = {10, 13, 11, 20, 44, 30, 50};
-		System.out.println("Array1: "+Arrays.toString(array_nums1)); 
-		System.out.println("Array2: "+Arrays.toString(array_nums2)); 
-		int ctr = 0;
-	    
-	    for(int i = 0; i < array_nums1.length; i++) {
-	        if(Math.abs(array_nums1[i] - array_nums2[i]) <= 1 && array_nums1[i] != array_nums2[i])
-	            ctr++;
-	    }
-	                    
-	    System.out.printf("Number of elements: "+ctr);
-		System.out.printf("\n");	 
-	}
-}
+
+Boa noite irmão. Vi que você me seguiu, dei uma olhada nos seus repositórios e creio que estamos num nível próximo de conhecimento. 
+
+	Não sei se você tem interesse em pegar o contato por algum meio, e a gente trocar uma idéia sobre, método de aprendizado, onde você ta aprendendo, 
+cursos que ta fazendo, etc.
+	Acho que seria interessante para minha e sua evolução, já que poderiamos trocar conhecimento.
